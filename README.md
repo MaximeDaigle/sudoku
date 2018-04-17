@@ -3,8 +3,11 @@
 ## Algorithms
 There is 4 algorithms to solve sudoku.
 The first one is use to benchmark the others and was written by Peter Norvig, director of research at Google Inc. (source: http://www.norvig.com/sudoku.html). It uses constraint propagation.
-The second algorithm is Hill-Climbing. It's an algorithm that finds the local optima
+
+The second algorithm is Hill-Climbing. It's an algorithm that finds the local optima.
+
 The third one is Simulated annealing. It's in the Markov Chain Monte Carlo (MCMC) family.
+
 The last one is the program of Norvig with an additional constraint from http://www.angusj.com/sudoku/hints.php
 
 ## Results on 1000 sudoku
